@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cypher+%F0%9F%91%8B;Full-stack+web+developer;Building+web+apps+with+TypeScript+%26+Next.js;i+like+coding+%3A%3E" alt="Hi, I'm Cypher. Full-stack web developer building web apps with TypeScript and Next.js." />
 </p>
 
-## 🧑‍💻 About me
+## About me
 
-- 🛠️ I build websites, client portals and admin dashboards
-- ⚡ Mostly TypeScript, React and Next.js, backed by Supabase or Firebase
-- 😄 i like coding :>
+- I build websites, client portals and admin dashboards
+- Mostly TypeScript, React and Next.js, backed by Supabase or Firebase
+- i like coding :>
 
-## 🧰 Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-## 🚀 Featured projects
+## Featured projects
 
 <p align="center">
   <a href="https://github.com/Cypher0924/jpcs-site">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cypher0924&show_icons=true&theme=tokyonight&hide_border=true" alt="Cypher's GitHub stats" height="170" />
@@ -48,8 +48,16 @@
   <img src="https://streak-stats.demolab.com?user=Cypher0924&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<!-- Redrawn daily by .github/workflows/snake.yml into the output branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cypher0924/Cypher0924/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Cypher0924/Cypher0924/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
 <!-- Contact: remove the comment markers and fill in your links to show this section.
-## 📫 Reach me
+## Reach me
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
